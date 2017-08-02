@@ -1,0 +1,4 @@
+broker_password:  # make one up
+broker_username:  # make one up
+cf_username: admin
+cf_password: 
